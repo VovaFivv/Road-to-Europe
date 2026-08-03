@@ -1,39 +1,68 @@
 # Road-to-Europe
-i want live in europe. Now i am in Russia.
-i am 16 years old
-mi bio:
-# 🚀 Road to TUKE
 
-My journey from beginner to Backend Developer.
+Hello!
 
-## 🎯 Goal
+My name is Eduard, 16 years
 
-- Study at TUKE
-- Become Backend Developer
-- Build professional portfolio
-- Reach English B2
-- Learn Slovak
-- Create 6 real projects
+I am preparing to study Computer Science at TUKE in Slovakia.
+
+My goal is to become a Backend Developer and build useful software for people.
 
 ---
 
-## 📚 Projects
+## 🎯 Goals
 
-- ✅ Library Manager
-- ⏳ Marketplace Scraper
-- ⏳ OSINT Tool
-- ⏳ Website Analyzer
-- ⏳ Job Market Analyzer
-- ⏳ Browser Automation Studio
+- 🇸🇰 Study at TUKE
+- 🐍 Become Python Backend Developer
+- 🇬🇧 Reach English B2
+- 🇸🇰 Learn Slovak
+- 🚀 Build professional portfolio
 
----
+## Progress 
+🐍 Python
 
-## 📈 Progress
+█░░░░░░░░░░ 6%
 
-Python █████░░░░ 10%
+🇬🇧 English
 
-English ████░░░░░ 40%
+████░░░░░░░ 40%
 
-Slovak ███░░░░░░ 2%
+🇸🇰 Slovak
 
-Projects █░░░░░░░ 10%
+███░░░░░░░░ 3%
+
+## Progects
+
+📚 Library Manager
+
+🟢 Completed
+
+——————————————————
+
+🛒 Marketplace Scraper
+
+🟡 In Progress
+
+—————————————————-
+
+🔎 OSINT Tool
+
+⚪ Planned
+
+—————————————————-
+
+🌐 Website Analyzer
+
+⚪ Planned
+
+—————————————————-
+
+💼 Job Market Analyzer
+
+⚪ Planned
+
+—————————————————-
+
+🤖 Browser Automation Studio
+
+⚪ Planned
